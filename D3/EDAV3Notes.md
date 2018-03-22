@@ -236,3 +236,5 @@ Practice 2
 Download and open [EDAV2.html](EDAV2.html)
 
 Either in the Console or in the .html file bind data -- an array of exactly six values -- to the circles and use the data property to modify the circles.
+
+...test
